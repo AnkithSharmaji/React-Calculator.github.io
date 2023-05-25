@@ -1,8 +1,8 @@
-##React Calculator
+# React Calculator
 
 This is a simple calculator app built using React. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-##Features
+## Features
 
 
 The calculator app has the following features:
@@ -16,7 +16,7 @@ Equals: Calculates the result based on the current input.
 Add/Multiply, Subtract/Divide Clubbing: Allows users to chain multiple addition or multiplication operations without pressing the equals button in between.
 
 
-##Installation
+## Installation
 
 To run the React calculator app locally, follow these steps:
 
@@ -27,7 +27,7 @@ Start the development server: npm start
 Open your browser and visit http://localhost:3000 to see the calculator app.
 
 
-**Technologies Used **
+## Technologies Used 
 
 
 The React calculator app is built using the following technologies:
