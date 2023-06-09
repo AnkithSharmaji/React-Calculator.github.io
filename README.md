@@ -2,6 +2,10 @@
 
 This is a simple calculator app built using React. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Hosted Link
+
+https://marvelous-souffle-1e5374.netlify.app/
+
 # Screenshot
 
 <img width="1440" alt="Screenshot 2023-05-26 at 2 21 56 PM" src="https://github.com/AnkithSharmaji/React-Calculator.github.io/assets/86291521/4366d683-e067-48bc-a4bb-f6140da29cb7">
